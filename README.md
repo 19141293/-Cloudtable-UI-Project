@@ -1,2 +1,2 @@
-# -Cloudtable-UI-Project
+# Cloudtable-UI-Project
 Restaurant Reservation UI 
